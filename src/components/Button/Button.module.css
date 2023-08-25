@@ -1,0 +1,20 @@
+.btn {
+    width: 100px;
+    height: 100px;
+    background-color: rgba(128, 128, 128, 0.39);
+    padding: 2px;
+    margin: 0.2rem;
+    color: black;
+    font-size: 2rem ;
+}
+
+.blue{
+    margin: 10px;
+    width: 230px;
+    height: 100px;
+    padding: 2px;
+    margin: 0.2rem;
+    background-color: rgba(0, 21, 255, 0.361);
+    font-size: 2rem ;
+    
+}
