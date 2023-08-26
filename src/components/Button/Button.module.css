@@ -7,6 +7,9 @@
     color: black;
     font-size: 2rem ;
     cursor: pointer;
+    &:hover{
+        border: 2px solid white;
+    }
 }
 
 .blue{
@@ -18,5 +21,8 @@
     background-color: rgba(0, 21, 255, 0.361);
     font-size: 2rem ;
     cursor: pointer;
+    &:hover{
+        border: 2px solid white;
+    }
     
 }
