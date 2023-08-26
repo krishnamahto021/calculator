@@ -6,6 +6,7 @@
     margin: 0.2rem;
     color: black;
     font-size: 2rem ;
+    cursor: pointer;
 }
 
 .blue{
@@ -16,5 +17,6 @@
     margin: 0.2rem;
     background-color: rgba(0, 21, 255, 0.361);
     font-size: 2rem ;
+    cursor: pointer;
     
 }
